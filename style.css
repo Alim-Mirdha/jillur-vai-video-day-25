@@ -2,19 +2,21 @@
     margin: 0;
     padding: 0;
 }
-.header img{
-    width: 100px;
+ul{
+    margin: 0;
+    padding: 0;
 }
 .header {
     background-color: rgb(67, 174, 236);
 }
-.menu ul{}
 .menu ul li{
     display: inline-block;
     list-style: none;
 }
-.menu ul li a{
+.menu ul li a {
     color: #fff;
     padding: 10px 20px;
     text-decoration: none;
+    line-height: 69px;
+    font-size: 20px;
 }
